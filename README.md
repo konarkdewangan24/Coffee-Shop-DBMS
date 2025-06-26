@@ -9,6 +9,7 @@ Auto-creates a menu table with predefined beverages if not present.
 
 Fetches live data for all available items.
 
+
 Supports categorization and availability flags.
 
 🔹 Order Processing
@@ -47,4 +48,5 @@ Backend: Python (OOP-based architecture)
 Database: MySQL (via mysql-connector-python)
 
 Libraries: datetime, dataclasses, tkinter, decimal, typing
+![Screenshot (7)](https://github.com/user-attachments/assets/1d427a34-afe3-433d-bbc4-a421d2a3b43a)
 
